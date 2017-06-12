@@ -18,7 +18,7 @@
 ★ How to use:
 
     1 - Download the tool from github
-         git clone https://github.com/joker25000
+         git clone https://github.com/joker25000/GitClin
          cd GitClin
          chmod +x gitclin.sh
 

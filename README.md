@@ -31,7 +31,7 @@
 
 ★ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
 
-★ FACE Pg1: facebook.com/AnonymousPalestine.vip
+★ FACE Pg1: https://facebook.com/AnonymousPalestine.vip
 
-★ FACE Pg2: facebook.com/kali.linux.pentesting.tutorials 
+★ FACE Pg2: https://facebook.com/kali.linux.pentesting.tutorials 
 

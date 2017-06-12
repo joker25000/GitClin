@@ -1,17 +1,22 @@
 ★ GitClin v 1.0 
-    Author: Joker-Security [ dev-labs ]
+
+   Author: Joker-Security [ dev-labs ]
 
 ★ Description:
+
     Download and Install tool 
  
 ★ Screenshot:
+
 ![pic1](http://i.imgur.com/SHieYEk.png)
+
 
 ![pic2](http://i.imgur.com/TIynVFe.png)
 
 
 
 ★ How to use:
+
     1 - Download the tool from github
          git clone https://github.com/joker25000
          cd GitClin
@@ -22,10 +27,15 @@
       
 
 ★ video tutorial: 
+
 GitClin v 1.0 : 
 
 
 ★ WEBSITE : http://dev-labs.co
+
 ★ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
+
 ★ FACE Pg1: facebook.com/AnonymousPalestine.vip
+
 ★ FACE Pg2: facebook.com/kali.linux.pentesting.tutorials 
+

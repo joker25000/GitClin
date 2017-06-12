@@ -27,7 +27,7 @@
       
  ★ video tutorial: 
  
-   GitClin v 1.0 :  
+   GitClin v 1.0 :  https://www.youtube.com/watch?v=ahHN_Nh1x-U&t=3s
    
 
 ★ WEBSITE : http://dev-labs.co

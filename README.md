@@ -25,11 +25,7 @@
     2- Run gitclin tool 
        ./gitclin.sh
       
-
-★ video tutorial: 
-
-GitClin v 1.0 : 
-
+   
 
 ★ WEBSITE : http://dev-labs.co
 

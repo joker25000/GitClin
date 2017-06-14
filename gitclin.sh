@@ -44,7 +44,7 @@ function checkinternet {
   then
     echo  " Checking For Internet: FAILED
     This Script Needs An Active Internet Connection"
-    echo " JokTools Will Now Exit"
+    echo " GitClin Will Now Exit"
     echo && sleep 2
     kexit
   else

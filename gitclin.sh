@@ -461,7 +461,7 @@ echo -e $okegreen"   ====================== [+] List Tool :=====================
                    [Nn]* ) echo "";clear;main_menu;;
                    esac
                 done
-                echo -e $red "########## Finish , Download AND Install torghost ############"
+                echo -e $red "########## Finish , Download AND Install OWASP-ZSC ############"
                 echo
                 echo -e $green "【!】Return To The Main Menu【!】"
                 read -p "pess any key to return ..."

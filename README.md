@@ -1,12 +1,12 @@
-★ GitClin v 1.0 
+## ★ GitClin v 1.0 
 
    Author: Joker-Security [ dev-labs ]
 
-★ Description:
+## ★ Description:
 
     This script is for downloading and installing tools
  
-★ Screenshot:
+## ★ Screenshot:
 
 ![pic1](http://i.imgur.com/SHieYEk.png)
 
@@ -15,7 +15,7 @@
 
 
 
-★ How to use:
+## ★ How to use:
 
     1 - Download the tool from github
          git clone https://github.com/joker25000/GitClin
@@ -25,7 +25,7 @@
     2 - Run gitclin tool 
        ./gitclin.sh
       
- ★ video tutorial: 
+##  ★ video tutorial: 
  
    GitClin v 1.0 :  https://www.youtube.com/watch?v=ahHN_Nh1x-U&t=3s
    

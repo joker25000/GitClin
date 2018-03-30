@@ -3,7 +3,7 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
-## ★ 💻 GitClin v 1.0 
+## ★ 💻 GitClin v 1.0 | <img src="https://img.shields.io/badge/i-GitClin-yellow.svg">
 
    Author: Joker-Security [ dev-labs ]
 
